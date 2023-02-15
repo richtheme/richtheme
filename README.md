@@ -6,4 +6,5 @@
 
 ### Contact me:
 
-[![Linkedin: shavkatsonkin](https://img.shields.io/badge/-shavkatsonkin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavkatsonkin/)]
+[![Linkedin: shavkatsonkin](https://img.shields.io/badge/-shavkatsonkin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavkatsonkin/)](https://www.linkedin.com/in/shavkatsonkin/)
+
